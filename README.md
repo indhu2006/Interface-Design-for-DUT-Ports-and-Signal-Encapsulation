@@ -127,8 +127,8 @@ module dut_tb;
 endmodule
 ```
 ### Simulation Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d6c878d8-9a6d-4819-a252-4dd5477d502b" />
 
---- PAste the output here
 
 ### Result
 
